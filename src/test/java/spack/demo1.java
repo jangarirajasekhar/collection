@@ -10,6 +10,7 @@ public class demo1 {
 	@AfterMethod
 	public void close() {
 		System.out.println("the shop was closed yesterday");
+		system.out.println("first change by rajasekhar");
 	}
 @BeforeMethod
 public void start() {
