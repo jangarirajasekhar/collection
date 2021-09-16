@@ -10,7 +10,8 @@ public class demo1 {
 	@AfterMethod
 	public void close() {
 		System.out.println("the shop was closed yesterday");
-		system.out.println("first change by rajasekhar");
+		System.out.println("first change by rajasekhar");
+		System.out.println("second modification");
 	}
 @BeforeMethod
 public void start() {
